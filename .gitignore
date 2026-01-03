@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+digital/
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Large generated files
+FINAL_CITY_PLAN.json
+
+# Blender / GIS cache (future)
+*.blend1
+*.tmp
